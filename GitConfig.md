@@ -5,8 +5,8 @@
 После установки GIT на Вашем компьютере, первым шагом необходимо настроить параметры. Для этого в терминале выполните следующие команды:
 
 ```bash=
-git config --global user.name *имя*
+git config --global user.name имя
 ```
 ```bash=
-git config --global user.email *электронная почта*
+git config --global user.email электронная почта
 ```
